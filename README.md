@@ -11,7 +11,7 @@
 - 🚀 Actively contributing to personal and open-source projects (e.g., **OpenTitan**)
 - 💬 Open to collaboration on VLSI verification projects, especially with UVM testbenches and automation
 - 📫 Reach me at: **annamjyothikiran2022@gmail.com**  
-  Or connect with me on [LinkedIn](www.linkedin.com/in/jk-vlsi-dv)
+  Or connect with me on (www.linkedin.com/in/jk-vlsi-dv)
 
 <!---
 Jyothikiran2024/Jyothikiran2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
